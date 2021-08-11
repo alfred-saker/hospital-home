@@ -39,7 +39,7 @@
       <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12">
         <div class="welcome col-content-ato">
             <h4>Intégrez votre compte professionnel de la santé !!!</h4>
-            <div>Faites-vous consultez en ligne par des médecins spécialisés de la santé. Trouvez facilement des horaires d’ouvertures de pharmacie et la disponibilité de médicaments
+            <div>Faites-vous bien consultez en ligne par des médecins spécialisés de la santé. Trouvez facilement des horaires d’ouvertures de pharmacie et la disponibilité de médicaments
           </div>
         </div> 
         </div>
